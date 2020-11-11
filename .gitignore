@@ -1,2 +1,7 @@
-/wiki_race_challenge
+wiki_race_challenge
 wiki_race_challenge.py
+
+__pycache__
+.pytest_cache
+
+temp.py
